@@ -1,0 +1,28 @@
+Following a discussion in the Q&A, we have decided to include further clarifications regarding the previous lecture (Null vs Alternative).
+
+
+First, we'd like to note that, conventionally, we always include the equality sign in the null hypothesis.
+
+
+
+Student question: 
+
+As per the above logic, in the video tutorial of the salary of the data scientist, the null hypothesis should have been: Data Scientists do not make an average of $113,000. Also in the second example, the null Hypothesis should have been: The average salary should be less than or equal to $125,000. 
+
+Please explain further. Also please share some further documentation/reference material.
+
+Now note that the statement is above is NOT true. This confusion motivated us to clarify further. 
+
+Instructor's answer (with some adjustments as 2-3 answers were combined):
+
+'I see why you would ask this question, as I asked the same one right after I was introduced to hypothesis testing.
+
+In statistics, the null hypothesis is the statement we are trying to reject. Think of it as the 'status-quo'. The alternative, therefore, is the change or innovation. 
+
+Example 1: So, for the data scientist salary example, the null would be:  the mean data scientist salary is $113,000. Then we will try to reject the null with a statistical test. So, usually, your personal opinion (e.g. data scientists don't earn exactly that much) is the alternative hypothesis.
+
+Example 2: Our friend Paul told us that the mean salary is >=$125,000 (status-quo, null). Our opinion is that he may be wrong, so we are testing that. Therefore, the alternative is: the mean data scientist salary is lower than $125,000.
+
+It surely is counter-intuitive in the beginning, but later on, when you start doing the exercises, you will understand the mechanics. '
+
+We hope that clears some doubts you may have had. Please complete the quiz after this lecture, to reinforce what you've learned :)
